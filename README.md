@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dajana Tolić from Croatia</h1>
 <h3 align="center">Learning to become Web Developer</h3>
 
+<img align="right" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXfj-rArstlwN9WXIpwLqCSTdRTNM3TDuGNT2bn_PfRqhUXdSqPPf1aZc0lerZJ5EW1ow&usqp=CAU">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dajanatolic&label=Profile%20views&color=0e75b6&style=flat" alt="dajanatolic" /> </p>
 
 - 🌱 I’m currently learning **SQL and C#**
